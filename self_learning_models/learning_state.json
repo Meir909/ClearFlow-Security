@@ -1,0 +1,1651 @@
+{
+  "pattern_history": [
+    {
+      "pattern_id": "dbscan_20251203_231239_0",
+      "timestamp": "2025-12-03T23:12:39.917869",
+      "frequency": 2328,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9312,
+      "cluster_center": [
+        -0.13533231883239127,
+        -0.1340865420401669,
+        -0.13114369683391836,
+        -0.11475521812587056,
+        -0.14195223239806246
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 2328
+    },
+    {
+      "pattern_id": "dbscan_20251203_231240_1",
+      "timestamp": "2025-12-03T23:12:40.119826",
+      "frequency": 26,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0104,
+      "cluster_center": [
+        3.917898564658176,
+        -0.12670392452743978,
+        -0.13511336576058908,
+        -0.26667599746066306,
+        0.918906293587977
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 26
+    },
+    {
+      "pattern_id": "dbscan_20251203_231240_2",
+      "timestamp": "2025-12-03T23:12:40.324893",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0024,
+      "cluster_center": [
+        4.186194721383759,
+        -0.16582683098738918,
+        -0.13511336576058916,
+        0.8172282924674988,
+        1.9546909201379954
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251203_231240_3",
+      "timestamp": "2025-12-03T23:12:40.509905",
+      "frequency": 12,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0048,
+      "cluster_center": [
+        -0.3486566556630591,
+        0.8510564631346517,
+        1.2708636918672602,
+        -0.17090609194668702,
+        -0.3695437950596658
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 12
+    },
+    {
+      "pattern_id": "dbscan_20251203_231240_4",
+      "timestamp": "2025-12-03T23:12:40.695225",
+      "frequency": 13,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0052,
+      "cluster_center": [
+        -0.3632495050315327,
+        3.0740532690894784,
+        3.466879116780928,
+        -0.027385567077243968,
+        -0.23808289650107195
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 13
+    },
+    {
+      "pattern_id": "dbscan_20251203_231240_5",
+      "timestamp": "2025-12-03T23:12:40.886671",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.6167099704096889,
+        -0.14764086898304576,
+        -0.09948717014824,
+        6.599471901371982,
+        5.744917061520369
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_231241_6",
+      "timestamp": "2025-12-03T23:12:41.094965",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        -0.15355507266807333,
+        -0.13511336576058916,
+        -0.35573816573925127,
+        4.981086001518935
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_231241_7",
+      "timestamp": "2025-12-03T23:12:41.296109",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        -0.36453294056381963,
+        5.2636895801807055,
+        5.646159898332326,
+        -0.2550481788826146,
+        -0.4279575576263509
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_231241_8",
+      "timestamp": "2025-12-03T23:12:41.495014",
+      "frequency": 8,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0032,
+      "cluster_center": [
+        -0.35906138638002705,
+        1.87364593704949,
+        2.2764667332728763,
+        -0.10596801627682394,
+        -0.30656386930618035
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 8
+    },
+    {
+      "pattern_id": "dbscan_20251203_231241_9",
+      "timestamp": "2025-12-03T23:12:41.696050",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        1.2068048802137559,
+        -0.16092356173973177,
+        -0.13511336576058916,
+        2.014942178096118,
+        2.0440665713442754
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_231242_10",
+      "timestamp": "2025-12-03T23:12:42.177009",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        0.07475697808283784,
+        -0.13511336576058916,
+        -0.25761353626124284,
+        2.705778187271232
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_231242_11",
+      "timestamp": "2025-12-03T23:12:42.363361",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.24884100609140916,
+        -0.13805943519622302,
+        -0.02250523591846515,
+        3.1247199955579084,
+        2.689312120555279
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251203_231242_high_confidence",
+      "timestamp": "2025-12-03T23:12:42.366343",
+      "frequency": 31,
+      "characteristics": "Very high confidence fraud scores (>0.2231)",
+      "confidence": 0.0124,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 31
+    },
+    {
+      "pattern_id": "statistical_20251203_231242_large_amounts",
+      "timestamp": "2025-12-03T23:12:42.366343",
+      "frequency": 94,
+      "characteristics": "Large transaction amounts (>5371209.19)",
+      "confidence": 0.0376,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 94
+    },
+    {
+      "pattern_id": "dbscan_20251203_232510_0",
+      "timestamp": "2025-12-03T23:25:10.875021",
+      "frequency": 2073,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9539806718821905,
+      "cluster_center": [
+        -0.08368860772488423,
+        -0.12659890690304557,
+        -0.12120137199824663,
+        -0.09547427967176975,
+        -0.10346548976258553
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 2073
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_1",
+      "timestamp": "2025-12-03T23:25:11.016207",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002300966405890474,
+      "cluster_center": [
+        -0.2045139251172258,
+        1.4404152729014588,
+        1.4538055069188414,
+        1.3614977976039149,
+        0.9318978648713998
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_2",
+      "timestamp": "2025-12-03T23:25:11.154943",
+      "frequency": 12,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.005522319374137137,
+      "cluster_center": [
+        -0.13940325188180971,
+        6.046442664301256,
+        6.0610529180845285,
+        -0.21544505495006824,
+        -0.25349244137109256
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 12
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_3",
+      "timestamp": "2025-12-03T23:25:11.295056",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0013805798435342844,
+      "cluster_center": [
+        2.8810434013566013,
+        -0.2874634014177458,
+        -0.29553622222693215,
+        0.9228795325353393,
+        1.4180792189348834
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_4",
+      "timestamp": "2025-12-03T23:25:11.458124",
+      "frequency": 4,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0018407731247123793,
+      "cluster_center": [
+        -0.13628385591603331,
+        8.308396047907559,
+        8.31521951930103,
+        -0.12106274083925525,
+        -0.18685700506256214
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 4
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_5",
+      "timestamp": "2025-12-03T23:25:11.614233",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002300966405890474,
+      "cluster_center": [
+        -0.13204633664890958,
+        4.365066456601706,
+        4.388276768572989,
+        -0.29331331312199405,
+        -0.3159074302984933
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_232511_6",
+      "timestamp": "2025-12-03T23:25:11.761558",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0013805798435342844,
+      "cluster_center": [
+        3.2846185952832108,
+        -0.2965805262450218,
+        -0.29553622222693215,
+        1.4994889432620464,
+        1.948386533696663
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5771241624042284,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251203_232511_high_confidence",
+      "timestamp": "2025-12-03T23:25:11.763557",
+      "frequency": 156,
+      "characteristics": "Very high confidence fraud scores (>0.6500)",
+      "confidence": 0.07179015186378279,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 156
+    },
+    {
+      "pattern_id": "statistical_20251203_232511_large_amounts",
+      "timestamp": "2025-12-03T23:25:11.765065",
+      "frequency": 26,
+      "characteristics": "Large transaction amounts (>1969929.69)",
+      "confidence": 0.011965025310630465,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 26
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_0",
+      "timestamp": "2025-12-03T23:27:09.063603",
+      "frequency": 2160,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.955329500221141,
+      "cluster_center": [
+        -0.09308774484093538,
+        -0.11505375618884306,
+        -0.11093139526675809,
+        -0.08179090271562484,
+        -0.09633257591563892
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 2160
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_1",
+      "timestamp": "2025-12-03T23:27:09.123857",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0022114108801415304,
+      "cluster_center": [
+        -0.19205557108344212,
+        5.688770174475613,
+        5.689641553180968,
+        -0.22233590973253242,
+        -0.2807954498892617
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_2",
+      "timestamp": "2025-12-03T23:27:09.181279",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0026536930561698365,
+      "cluster_center": [
+        -0.19368779869183597,
+        4.856951013992309,
+        4.862009388860766,
+        -0.12796320131167596,
+        -0.1957783297970114
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_3",
+      "timestamp": "2025-12-03T23:27:09.238179",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0022114108801415304,
+      "cluster_center": [
+        0.06126408956256416,
+        0.4127154563577749,
+        0.5040001738524774,
+        1.1408238260629768,
+        0.8719828423745668
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_4",
+      "timestamp": "2025-12-03T23:27:09.295952",
+      "frequency": 4,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0017691287041132243,
+      "cluster_center": [
+        -0.16001680099538718,
+        0.6225691642263623,
+        0.6591081479769181,
+        2.2376585919490806,
+        1.8826535782729865
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 4
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_5",
+      "timestamp": "2025-12-03T23:27:09.352117",
+      "frequency": 4,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0017691287041132243,
+      "cluster_center": [
+        1.6170388334749846,
+        -0.23292568070887962,
+        -0.27168574920152905,
+        2.411763128243516,
+        2.4547701139168807
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 4
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_6",
+      "timestamp": "2025-12-03T23:27:09.409781",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0013268465280849183,
+      "cluster_center": [
+        4.079468524259812,
+        -0.20413028002224762,
+        -0.27168574920152905,
+        -0.24765312237129164,
+        0.5991832752137195
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_232709_7",
+      "timestamp": "2025-12-03T23:27:09.468513",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0013268465280849183,
+      "cluster_center": [
+        3.5002804935224057,
+        -0.27278697054948964,
+        -0.27168574920152905,
+        0.7302889194620397,
+        1.3462673035443766
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.4434575059943878,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251203_232709_high_confidence",
+      "timestamp": "2025-12-03T23:27:09.469511",
+      "frequency": 149,
+      "characteristics": "Very high confidence fraud scores (>0.6500)",
+      "confidence": 0.0659000442282176,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 149
+    },
+    {
+      "pattern_id": "statistical_20251203_232709_large_amounts",
+      "timestamp": "2025-12-03T23:27:09.469511",
+      "frequency": 42,
+      "characteristics": "Large transaction amounts (>1467897.05)",
+      "confidence": 0.018575851393188854,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 42
+    },
+    {
+      "pattern_id": "dbscan_20251203_233219_0",
+      "timestamp": "2025-12-03T23:32:19.968943",
+      "frequency": 2256,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9527027027027027,
+      "cluster_center": [
+        -0.0954315454748353,
+        -0.10109321725048229,
+        -0.09500019008690476,
+        -0.12035928350799091,
+        -0.12993875895603332
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 2256
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_1",
+      "timestamp": "2025-12-03T23:32:20.122983",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.001266891891891892,
+      "cluster_center": [
+        -0.15004580069020676,
+        0.6019430931947105,
+        0.6456089008612471,
+        2.878477657564351,
+        2.2632146791051753
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_2",
+      "timestamp": "2025-12-03T23:32:20.290470",
+      "frequency": 7,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0029560810810810812,
+      "cluster_center": [
+        -0.1151523154940424,
+        -0.23259462568549405,
+        -0.23254137353532456,
+        4.99843200322973,
+        4.08465418158998
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 7
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_3",
+      "timestamp": "2025-12-03T23:32:20.434380",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.001266891891891892,
+      "cluster_center": [
+        -0.15133839425427686,
+        5.406740866909812,
+        5.444431706637746,
+        0.2432475821873695,
+        0.10315801056080144
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_4",
+      "timestamp": "2025-12-03T23:32:20.581721",
+      "frequency": 3,
+      "characteristics": "very large transactions with significant account depletion",
+      "confidence": 0.001266891891891892,
+      "cluster_center": [
+        0.027034339647664957,
+        -0.2594705928494126,
+        -0.26651150692813846,
+        4.2344500488044385,
+        3.4966197697923334
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_5",
+      "timestamp": "2025-12-03T23:32:20.743091",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.001266891891891892,
+      "cluster_center": [
+        -0.1857650355076926,
+        6.303407188100674,
+        6.3291723527323915,
+        -0.14790134064094448,
+        -0.20918835223740304
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251203_233220_6",
+      "timestamp": "2025-12-03T23:32:20.896332",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.001266891891891892,
+      "cluster_center": [
+        -0.01909960213357444,
+        0.17465082267512488,
+        0.26022142777874,
+        1.7967778978858366,
+        1.3447932254643773
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5433673948654958,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251203_233220_high_confidence",
+      "timestamp": "2025-12-03T23:32:20.897332",
+      "frequency": 137,
+      "characteristics": "Very high confidence fraud scores (>0.6500)",
+      "confidence": 0.05785472972972973,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 137
+    },
+    {
+      "pattern_id": "statistical_20251203_233220_large_amounts",
+      "timestamp": "2025-12-03T23:32:20.898333",
+      "frequency": 37,
+      "characteristics": "Large transaction amounts (>1798527.09)",
+      "confidence": 0.015625,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 37
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_0",
+      "timestamp": "2025-12-03T23:36:33.046829",
+      "frequency": 2195,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9510398613518197,
+      "cluster_center": [
+        -0.10051085381908291,
+        -0.1255219688167857,
+        -0.1215911143076669,
+        -0.09815555396282587,
+        -0.1100714508472277
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 2195
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_1",
+      "timestamp": "2025-12-03T23:36:33.204054",
+      "frequency": 4,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0017331022530329288,
+      "cluster_center": [
+        -0.18702052638641542,
+        5.260425379038345,
+        5.259036051353514,
+        0.12000806188901654,
+        0.030574528479636938
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 4
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_2",
+      "timestamp": "2025-12-03T23:36:33.355069",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0025996533795493936,
+      "cluster_center": [
+        -0.17200110873710503,
+        1.3887859810431198,
+        1.413538304997257,
+        1.1677684856174484,
+        0.9113413344147082
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_3",
+      "timestamp": "2025-12-03T23:36:33.502704",
+      "frequency": 8,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0034662045060658577,
+      "cluster_center": [
+        -0.10899286060307581,
+        6.1432303039460265,
+        6.1570243515933,
+        -0.22086945597486995,
+        -0.283647889766797
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 8
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_4",
+      "timestamp": "2025-12-03T23:36:33.654214",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0025996533795493936,
+      "cluster_center": [
+        -0.08149645392169043,
+        4.262935670337894,
+        4.294669880510349,
+        -0.2056137262962987,
+        -0.2805523905903397
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_5",
+      "timestamp": "2025-12-03T23:36:33.802230",
+      "frequency": 4,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0017331022530329288,
+      "cluster_center": [
+        2.4740451513464436,
+        -0.27173262831372963,
+        -0.2726899642999536,
+        0.7288927410826744,
+        1.1750845370468301
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 4
+    },
+    {
+      "pattern_id": "dbscan_20251203_233633_6",
+      "timestamp": "2025-12-03T23:36:33.947075",
+      "frequency": 3,
+      "characteristics": "very large transactions with significant account depletion",
+      "confidence": 0.0012998266897746968,
+      "cluster_center": [
+        0.6635058296696345,
+        -0.23715270506254324,
+        -0.2726899642999536,
+        3.274559903251472,
+        2.854198680340666
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5772592314451546,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251203_233633_high_confidence",
+      "timestamp": "2025-12-03T23:36:33.947582",
+      "frequency": 167,
+      "characteristics": "Very high confidence fraud scores (>0.6500)",
+      "confidence": 0.07235701906412478,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 167
+    },
+    {
+      "pattern_id": "statistical_20251203_233633_large_amounts",
+      "timestamp": "2025-12-03T23:36:33.948595",
+      "frequency": 38,
+      "characteristics": "Large transaction amounts (>1825754.75)",
+      "confidence": 0.016464471403812825,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 38
+    },
+    {
+      "pattern_id": "dbscan_20251204_120842_0",
+      "timestamp": "2025-12-04T12:08:42.954846",
+      "frequency": 2328,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9312,
+      "cluster_center": [
+        -0.13533231883239127,
+        -0.1340865420401669,
+        -0.13114369683391836,
+        -0.11475521812587056,
+        -0.14195223239806246
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 2328
+    },
+    {
+      "pattern_id": "dbscan_20251204_120843_1",
+      "timestamp": "2025-12-04T12:08:43.215637",
+      "frequency": 26,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0104,
+      "cluster_center": [
+        3.917898564658176,
+        -0.12670392452743978,
+        -0.13511336576058908,
+        -0.26667599746066306,
+        0.918906293587977
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 26
+    },
+    {
+      "pattern_id": "dbscan_20251204_120843_2",
+      "timestamp": "2025-12-04T12:08:43.476705",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0024,
+      "cluster_center": [
+        4.186194721383759,
+        -0.16582683098738918,
+        -0.13511336576058916,
+        0.8172282924674988,
+        1.9546909201379954
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251204_120843_3",
+      "timestamp": "2025-12-04T12:08:43.737093",
+      "frequency": 12,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0048,
+      "cluster_center": [
+        -0.3486566556630591,
+        0.8510564631346517,
+        1.2708636918672602,
+        -0.17090609194668702,
+        -0.3695437950596658
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 12
+    },
+    {
+      "pattern_id": "dbscan_20251204_120843_4",
+      "timestamp": "2025-12-04T12:08:43.992322",
+      "frequency": 13,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0052,
+      "cluster_center": [
+        -0.3632495050315327,
+        3.0740532690894784,
+        3.466879116780928,
+        -0.027385567077243968,
+        -0.23808289650107195
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 13
+    },
+    {
+      "pattern_id": "dbscan_20251204_120844_5",
+      "timestamp": "2025-12-04T12:08:44.249676",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.6167099704096889,
+        -0.14764086898304576,
+        -0.09948717014824,
+        6.599471901371982,
+        5.744917061520369
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_120844_6",
+      "timestamp": "2025-12-04T12:08:44.508261",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        -0.15355507266807333,
+        -0.13511336576058916,
+        -0.35573816573925127,
+        4.981086001518935
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_120844_7",
+      "timestamp": "2025-12-04T12:08:44.761031",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        -0.36453294056381963,
+        5.2636895801807055,
+        5.646159898332326,
+        -0.2550481788826146,
+        -0.4279575576263509
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251204_120845_8",
+      "timestamp": "2025-12-04T12:08:45.017573",
+      "frequency": 8,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0032,
+      "cluster_center": [
+        -0.35906138638002705,
+        1.87364593704949,
+        2.2764667332728763,
+        -0.10596801627682394,
+        -0.30656386930618035
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 8
+    },
+    {
+      "pattern_id": "dbscan_20251204_120845_9",
+      "timestamp": "2025-12-04T12:08:45.273022",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        1.2068048802137559,
+        -0.16092356173973177,
+        -0.13511336576058916,
+        2.014942178096118,
+        2.0440665713442754
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251204_120845_10",
+      "timestamp": "2025-12-04T12:08:45.529421",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        0.07475697808283784,
+        -0.13511336576058916,
+        -0.25761353626124284,
+        2.705778187271232
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_120845_11",
+      "timestamp": "2025-12-04T12:08:45.785102",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.24884100609140916,
+        -0.13805943519622302,
+        -0.02250523591846515,
+        3.1247199955579084,
+        2.689312120555279
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251204_120845_high_confidence",
+      "timestamp": "2025-12-04T12:08:45.788115",
+      "frequency": 31,
+      "characteristics": "Very high confidence fraud scores (>0.2231)",
+      "confidence": 0.0124,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 31
+    },
+    {
+      "pattern_id": "statistical_20251204_120845_large_amounts",
+      "timestamp": "2025-12-04T12:08:45.788115",
+      "frequency": 94,
+      "characteristics": "Large transaction amounts (>5371209.19)",
+      "confidence": 0.0376,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 94
+    },
+    {
+      "pattern_id": "dbscan_20251204_130956_0",
+      "timestamp": "2025-12-04T13:09:56.432182",
+      "frequency": 2328,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.9312,
+      "cluster_center": [
+        -0.13533231883239127,
+        -0.1340865420401669,
+        -0.13114369683391836,
+        -0.11475521812587056,
+        -0.14195223239806246
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 2328
+    },
+    {
+      "pattern_id": "dbscan_20251204_130956_1",
+      "timestamp": "2025-12-04T13:09:56.679805",
+      "frequency": 26,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0104,
+      "cluster_center": [
+        3.917898564658176,
+        -0.12670392452743978,
+        -0.13511336576058908,
+        -0.26667599746066306,
+        0.918906293587977
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 26
+    },
+    {
+      "pattern_id": "dbscan_20251204_130956_2",
+      "timestamp": "2025-12-04T13:09:56.928075",
+      "frequency": 6,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0024,
+      "cluster_center": [
+        4.186194721383759,
+        -0.16582683098738918,
+        -0.13511336576058916,
+        0.8172282924674988,
+        1.9546909201379954
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 6
+    },
+    {
+      "pattern_id": "dbscan_20251204_130957_3",
+      "timestamp": "2025-12-04T13:09:57.176593",
+      "frequency": 12,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0048,
+      "cluster_center": [
+        -0.3486566556630591,
+        0.8510564631346517,
+        1.2708636918672602,
+        -0.17090609194668702,
+        -0.3695437950596658
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 12
+    },
+    {
+      "pattern_id": "dbscan_20251204_130957_4",
+      "timestamp": "2025-12-04T13:09:57.424949",
+      "frequency": 13,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0052,
+      "cluster_center": [
+        -0.3632495050315327,
+        3.0740532690894784,
+        3.466879116780928,
+        -0.027385567077243968,
+        -0.23808289650107195
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 13
+    },
+    {
+      "pattern_id": "dbscan_20251204_130957_5",
+      "timestamp": "2025-12-04T13:09:57.667846",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.6167099704096889,
+        -0.14764086898304576,
+        -0.09948717014824,
+        6.599471901371982,
+        5.744917061520369
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_130957_6",
+      "timestamp": "2025-12-04T13:09:57.911199",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        -0.15355507266807333,
+        -0.13511336576058916,
+        -0.35573816573925127,
+        4.981086001518935
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_130958_7",
+      "timestamp": "2025-12-04T13:09:58.150831",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        -0.36453294056381963,
+        5.2636895801807055,
+        5.646159898332326,
+        -0.2550481788826146,
+        -0.4279575576263509
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251204_130958_8",
+      "timestamp": "2025-12-04T13:09:58.400714",
+      "frequency": 8,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0032,
+      "cluster_center": [
+        -0.35906138638002705,
+        1.87364593704949,
+        2.2764667332728763,
+        -0.10596801627682394,
+        -0.30656386930618035
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 8
+    },
+    {
+      "pattern_id": "dbscan_20251204_130958_9",
+      "timestamp": "2025-12-04T13:09:58.644735",
+      "frequency": 5,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.002,
+      "cluster_center": [
+        1.2068048802137559,
+        -0.16092356173973177,
+        -0.13511336576058916,
+        2.014942178096118,
+        2.0440665713442754
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 5
+    },
+    {
+      "pattern_id": "dbscan_20251204_130958_10",
+      "timestamp": "2025-12-04T13:09:58.888917",
+      "frequency": 3,
+      "characteristics": "very large transactions with near complete account depletion",
+      "confidence": 0.0012,
+      "cluster_center": [
+        4.297451602229039,
+        0.07475697808283784,
+        -0.13511336576058916,
+        -0.25761353626124284,
+        2.705778187271232
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "dbscan_20251204_130959_11",
+      "timestamp": "2025-12-04T13:09:59.134045",
+      "frequency": 3,
+      "characteristics": "very large transactions with partial account usage",
+      "confidence": 0.0012,
+      "cluster_center": [
+        -0.24884100609140916,
+        -0.13805943519622302,
+        -0.02250523591846515,
+        3.1247199955579084,
+        2.689312120555279
+      ],
+      "detection_method": "DBSCAN",
+      "quality_score": 0.5124643722566891,
+      "cluster_size": 3
+    },
+    {
+      "pattern_id": "statistical_20251204_130959_high_confidence",
+      "timestamp": "2025-12-04T13:09:59.137044",
+      "frequency": 31,
+      "characteristics": "Very high confidence fraud scores (>0.2231)",
+      "confidence": 0.0124,
+      "detection_method": "Statistical Outliers",
+      "quality_score": 0.8,
+      "cluster_size": 31
+    },
+    {
+      "pattern_id": "statistical_20251204_130959_large_amounts",
+      "timestamp": "2025-12-04T13:09:59.143766",
+      "frequency": 94,
+      "characteristics": "Large transaction amounts (>5371209.19)",
+      "confidence": 0.0376,
+      "detection_method": "Amount Analysis",
+      "quality_score": 0.7,
+      "cluster_size": 94
+    }
+  ],
+  "performance_metrics": {
+    "detection_rates": [],
+    "false_positive_rates": [],
+    "adaptation_events": [
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231239_0",
+        "rule_id": "adaptive_dbscan_20251203_231239_0"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231240_1",
+        "rule_id": "adaptive_dbscan_20251203_231240_1"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231240_2",
+        "rule_id": "adaptive_dbscan_20251203_231240_2"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231240_3",
+        "rule_id": "adaptive_dbscan_20251203_231240_3"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231240_4",
+        "rule_id": "adaptive_dbscan_20251203_231240_4"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231240_5",
+        "rule_id": "adaptive_dbscan_20251203_231240_5"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231241_6",
+        "rule_id": "adaptive_dbscan_20251203_231241_6"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231241_7",
+        "rule_id": "adaptive_dbscan_20251203_231241_7"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231241_8",
+        "rule_id": "adaptive_dbscan_20251203_231241_8"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231241_9",
+        "rule_id": "adaptive_dbscan_20251203_231241_9"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231242_10",
+        "rule_id": "adaptive_dbscan_20251203_231242_10"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "dbscan_20251203_231242_11",
+        "rule_id": "adaptive_dbscan_20251203_231242_11"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "statistical_20251203_231242_high_confidence",
+        "rule_id": "adaptive_statistical_20251203_231242_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-03T23:12:42.366343",
+        "pattern_id": "statistical_20251203_231242_large_amounts",
+        "rule_id": "adaptive_statistical_20251203_231242_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232510_0",
+        "rule_id": "adaptive_dbscan_20251203_232510_0"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_1",
+        "rule_id": "adaptive_dbscan_20251203_232511_1"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_2",
+        "rule_id": "adaptive_dbscan_20251203_232511_2"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_3",
+        "rule_id": "adaptive_dbscan_20251203_232511_3"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_4",
+        "rule_id": "adaptive_dbscan_20251203_232511_4"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_5",
+        "rule_id": "adaptive_dbscan_20251203_232511_5"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "dbscan_20251203_232511_6",
+        "rule_id": "adaptive_dbscan_20251203_232511_6"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "statistical_20251203_232511_high_confidence",
+        "rule_id": "adaptive_statistical_20251203_232511_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-03T23:25:11.765065",
+        "pattern_id": "statistical_20251203_232511_large_amounts",
+        "rule_id": "adaptive_statistical_20251203_232511_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_0",
+        "rule_id": "adaptive_dbscan_20251203_232709_0"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_1",
+        "rule_id": "adaptive_dbscan_20251203_232709_1"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_2",
+        "rule_id": "adaptive_dbscan_20251203_232709_2"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_3",
+        "rule_id": "adaptive_dbscan_20251203_232709_3"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_4",
+        "rule_id": "adaptive_dbscan_20251203_232709_4"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_5",
+        "rule_id": "adaptive_dbscan_20251203_232709_5"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_6",
+        "rule_id": "adaptive_dbscan_20251203_232709_6"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "dbscan_20251203_232709_7",
+        "rule_id": "adaptive_dbscan_20251203_232709_7"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "statistical_20251203_232709_high_confidence",
+        "rule_id": "adaptive_statistical_20251203_232709_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-03T23:27:09.469511",
+        "pattern_id": "statistical_20251203_232709_large_amounts",
+        "rule_id": "adaptive_statistical_20251203_232709_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233219_0",
+        "rule_id": "adaptive_dbscan_20251203_233219_0"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_1",
+        "rule_id": "adaptive_dbscan_20251203_233220_1"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_2",
+        "rule_id": "adaptive_dbscan_20251203_233220_2"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_3",
+        "rule_id": "adaptive_dbscan_20251203_233220_3"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_4",
+        "rule_id": "adaptive_dbscan_20251203_233220_4"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_5",
+        "rule_id": "adaptive_dbscan_20251203_233220_5"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "dbscan_20251203_233220_6",
+        "rule_id": "adaptive_dbscan_20251203_233220_6"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "statistical_20251203_233220_high_confidence",
+        "rule_id": "adaptive_statistical_20251203_233220_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-03T23:32:20.898333",
+        "pattern_id": "statistical_20251203_233220_large_amounts",
+        "rule_id": "adaptive_statistical_20251203_233220_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_0",
+        "rule_id": "adaptive_dbscan_20251203_233633_0"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_1",
+        "rule_id": "adaptive_dbscan_20251203_233633_1"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_2",
+        "rule_id": "adaptive_dbscan_20251203_233633_2"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_3",
+        "rule_id": "adaptive_dbscan_20251203_233633_3"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_4",
+        "rule_id": "adaptive_dbscan_20251203_233633_4"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_5",
+        "rule_id": "adaptive_dbscan_20251203_233633_5"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "dbscan_20251203_233633_6",
+        "rule_id": "adaptive_dbscan_20251203_233633_6"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "statistical_20251203_233633_high_confidence",
+        "rule_id": "adaptive_statistical_20251203_233633_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-03T23:36:33.948595",
+        "pattern_id": "statistical_20251203_233633_large_amounts",
+        "rule_id": "adaptive_statistical_20251203_233633_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120842_0",
+        "rule_id": "adaptive_dbscan_20251204_120842_0"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120843_1",
+        "rule_id": "adaptive_dbscan_20251204_120843_1"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120843_2",
+        "rule_id": "adaptive_dbscan_20251204_120843_2"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120843_3",
+        "rule_id": "adaptive_dbscan_20251204_120843_3"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120843_4",
+        "rule_id": "adaptive_dbscan_20251204_120843_4"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120844_5",
+        "rule_id": "adaptive_dbscan_20251204_120844_5"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120844_6",
+        "rule_id": "adaptive_dbscan_20251204_120844_6"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120844_7",
+        "rule_id": "adaptive_dbscan_20251204_120844_7"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120845_8",
+        "rule_id": "adaptive_dbscan_20251204_120845_8"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120845_9",
+        "rule_id": "adaptive_dbscan_20251204_120845_9"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120845_10",
+        "rule_id": "adaptive_dbscan_20251204_120845_10"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "dbscan_20251204_120845_11",
+        "rule_id": "adaptive_dbscan_20251204_120845_11"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "statistical_20251204_120845_high_confidence",
+        "rule_id": "adaptive_statistical_20251204_120845_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-04T12:08:45.789128",
+        "pattern_id": "statistical_20251204_120845_large_amounts",
+        "rule_id": "adaptive_statistical_20251204_120845_large_amounts"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130956_0",
+        "rule_id": "adaptive_dbscan_20251204_130956_0"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130956_1",
+        "rule_id": "adaptive_dbscan_20251204_130956_1"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130956_2",
+        "rule_id": "adaptive_dbscan_20251204_130956_2"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130957_3",
+        "rule_id": "adaptive_dbscan_20251204_130957_3"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130957_4",
+        "rule_id": "adaptive_dbscan_20251204_130957_4"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130957_5",
+        "rule_id": "adaptive_dbscan_20251204_130957_5"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130957_6",
+        "rule_id": "adaptive_dbscan_20251204_130957_6"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130958_7",
+        "rule_id": "adaptive_dbscan_20251204_130958_7"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130958_8",
+        "rule_id": "adaptive_dbscan_20251204_130958_8"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130958_9",
+        "rule_id": "adaptive_dbscan_20251204_130958_9"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130958_10",
+        "rule_id": "adaptive_dbscan_20251204_130958_10"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "dbscan_20251204_130959_11",
+        "rule_id": "adaptive_dbscan_20251204_130959_11"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "statistical_20251204_130959_high_confidence",
+        "rule_id": "adaptive_statistical_20251204_130959_high_confidence"
+      },
+      {
+        "timestamp": "2025-12-04T13:09:59.143766",
+        "pattern_id": "statistical_20251204_130959_large_amounts",
+        "rule_id": "adaptive_statistical_20251204_130959_large_amounts"
+      }
+    ]
+  },
+  "last_updated": "2025-12-04T14:02:54.467272"
+}
