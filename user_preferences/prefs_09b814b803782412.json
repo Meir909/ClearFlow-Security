@@ -1,0 +1,23 @@
+{
+  "theme": "dark",
+  "language": "ru",
+  "default_models": [
+    "isolation_forest",
+    "autoencoder"
+  ],
+  "contamination_level": 0.05,
+  "favorite_views": [],
+  "alert_thresholds": {
+    "high_risk": 0.8,
+    "medium_risk": 0.5,
+    "low_risk": 0.2
+  },
+  "export_formats": [
+    "csv",
+    "json"
+  ],
+  "dashboard_layout": "default",
+  "last_updated": "2025-12-03T21:18:09.746737",
+  "theme_transition_speed": 0.5,
+  "enable_animations": true
+}
