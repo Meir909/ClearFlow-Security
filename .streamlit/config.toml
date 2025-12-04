@@ -1,0 +1,15 @@
+[server]
+maxUploadSize = 500
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+base = "dark"
+primaryColor = "#667eea"
+backgroundColor = "#667eea"
+secondaryBackgroundColor = "#764ba2"
+textColor = "#e0e0e0"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
